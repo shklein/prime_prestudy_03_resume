@@ -23,6 +23,7 @@ button {
 
 
 .content {
+	display: none;
 	text-align: left;
 	margin-right: 25px;
 	margin-left: 25px;
